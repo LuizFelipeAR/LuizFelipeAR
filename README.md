@@ -20,5 +20,3 @@ I am a Computer Science student focused on building systems, solving problems, a
 ![](https://nirzak-streak-stats.vercel.app/?user=LuizFelipeAR&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFelipeAR&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=LuizFelipeAR&limit=5&theme=dark&combine_all_yearly_contributions=true)
